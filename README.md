@@ -6,3 +6,8 @@ Practice repository for working with Git on the command line and GitHub collabor
 
 ## License
 - MIT License soon to come
+
+## Find out more:
+- about.md
+- hometown.md
+- githubstudent file
